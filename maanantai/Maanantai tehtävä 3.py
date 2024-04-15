@@ -1,0 +1,8 @@
+print("Anna kaksi kokonaislukua :")
+luku1 = int(input())
+luku2 = int(input())
+print("Annoit luvut:", luku1 ,"ja", luku2)
+print("Lukujen summa on", luku1 + luku2)
+print("Lukujen erotus on", luku1 - luku2)
+print("Lukujen tulo on", luku1 * luku2)
+print("Lukujen osamäärä on", luku1 / luku2)
